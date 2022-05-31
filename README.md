@@ -10,14 +10,18 @@ Aplikasi `RecipeMe` merupakan aplikasi daftar resep makanan dengan data resep ya
 
 #### Antar Muka Aplikasi `RecipeMe` :iphone:
 ![](assets/SS/login.jpg)
-Pada awal akses aplikasi pengguna diharap login untuk masuk ke layar beranda dengan akun default :
-`username : Chef`
-`password : 12345`
 
+Pada awal akses aplikasi pengguna diharap login untuk masuk ke layar beranda dengan akun default :
+```
+username : Chef
+password : 12345
+```
 ![](assets/SS/home.jpg)
+
 Setelah login berhasil maka akan diarahkan ke Layar Beranda aplikasi `RecipeMe` dengan berbagai list Menu Makanan
 
 ![](assets/SS/detail.jpg)
+
 Bagian detail resep dapat diakses dengan melakukan `klik` pada list Menu Beranda
 
 #### Download :arrow_down:
