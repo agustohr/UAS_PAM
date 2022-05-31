@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "RecipeMe",
+    "slug": "RecipeMe",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.agusto.recipeme",
+      "buildNumber": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "android": {
+      "package": "com.agusto.recipeme",
+      "versionCode": 1
+    }
+  }
+}
